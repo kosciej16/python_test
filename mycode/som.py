@@ -8,3 +8,15 @@ class A:
 
     def pr(self):
         return self.var
+
+
+def main():
+    print('dziala')
+
+
+def inny():
+    print('dziala bardziej')
+
+
+if __name__ == "__main__":
+    print('nie dziala')
